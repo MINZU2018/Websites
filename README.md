@@ -17,3 +17,4 @@
   - [Autodraw](https://www.autodraw.com/)  <kbd>https://www.autodraw.com/ </kbd>==谷歌推出基于机器学习的免费绘图程序。用户在绘制形状后软件会给出组合后的形状建议，为艺术家提供更多的灵感储备。==
   - [Sci Draw](https://scidraw.io/)  <kbd>https://scidraw.io/</kbd>==一个包含动物、细胞等科学领域的绘图库。==
   -  [Noun Project](https://thenounproject.com/)  <kbd>https://thenounproject.com/</kbd>==包含了超过两百万个通用图标，其中很多可以免费使用。==
+  -  [Cutecharts](https://github.com/cutecharts/cutecharts.py)  <kbd>https://github.com/cutecharts/cutecharts.py </kbd>==非常酷的Python手绘风格的可视化图表。==
