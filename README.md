@@ -21,3 +21,8 @@
   -  [Cutecharts](https://github.com/cutecharts/cutecharts.py)  <kbd>https://github.com/cutecharts/cutecharts.py </kbd>==非常酷的Python手绘风格的可视化图表。==
 - [算法可视化 visualgo](https://visualgo.net/en)  <kbd>https://visualgo.net/en</kbd> ==一个常见算法辅助理解、交互式可视化网站 ==
  
+## 服务器推送类
+  - [Server酱](http://sc.ftqq.com/3.version)  <kbd>http://sc.ftqq.com/3.version </kbd> ==一对一模式。用GitHub账号登入，服务器推报警和日志到手机的工具==
+     -[使用方法](https://blog.csdn.net/u013630017/article/details/81365896)  
+  - [Push+](http://pushplus.hxtrip.com/index)  <kbd>http://pushplus.hxtrip.com/index </kbd> ==一对多模式。pushplus集成了微信，短信，邮件等实时信息推送平台==
+    -[使用方法](https://blog.csdn.net/weixin_44655649/article/details/105529967)  
