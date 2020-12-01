@@ -9,6 +9,10 @@
     - [stackedit](https://stackedit.io/)  <kbd>https://stackedit.io/ </kbd>
     - [MaHua](http://mahua.jser.me/ ) <kbd>http://mahua.jser.me/ </kbd>
     - [x]  [csdn](https://editor.csdn.net/md/#fn2)  <kbd>https://editor.csdn.net/md/ </kbd>
+ - 在线词云制作
+     - [wordart](https://wordart.com/)  
+     - [weiciyun](https://www.weiciyun.com/)  
+     - [yciyun](https://www.yciyun.com/)  
   
 
 ## 科研类
