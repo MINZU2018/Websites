@@ -30,3 +30,6 @@
      - [配置方法](https://blog.csdn.net/u013630017/article/details/81365896)  
   - [Push+](http://pushplus.hxtrip.com/index)  <kbd>http://pushplus.hxtrip.com/index </kbd> ==**一对多模式**。pushplus集成了微信，短信，邮件等实时信息推送平台==
     -  [配置方法](https://blog.csdn.net/weixin_44655649/article/details/105529967)  
+	
+## 电影类
+- [一刻](http://www.yikedy.co/)  <kbd>http://www.yikedy.co/</kbd>
